@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veteribuscatholi00word_0008.png"; bbox 0 0 1831 2975; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 142 1193 1616 1325">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 142 1193 1616 1325">
+     <span class='ocr_line' id='line_1_1' title="bbox 158 1193 1487 1251; baseline 0 -15"><span class='ocrx_word' id='word_1_1' title='bbox 158 1195 260 1251; x_wconf 79' lang='lat' dir='ltr'>Pag.</span> <span class='ocrx_word' id='word_1_2' title='bbox 285 1197 322 1245; x_wconf 87' lang='lat'>3,</span> <span class='ocrx_word' id='word_1_3' title='bbox 345 1195 416 1236; x_wconf 87' lang='lat' dir='ltr'>lin.</span> <span class='ocrx_word' id='word_1_4' title='bbox 443 1196 480 1245; x_wconf 83' lang='grc'>7,</span> <span class='ocrx_word' id='word_1_5' title='bbox 497 1209 584 1250; x_wconf 63' lang='lat'>207’0</span> <span class='ocrx_word' id='word_1_6' title='bbox 608 1194 959 1251; x_wconf 81' lang='lat' dir='ltr'><strong>“Agrippensis,”</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 983 1194 1067 1250; x_wconf 73' lang='lat' dir='ltr'><em>leye</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1091 1193 1487 1251; x_wconf 62' lang='lat' dir='ltr'>“Agrippinensis&#39;&#39;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 142 1263 1616 1325; baseline 0 -15"><span class='ocrx_word' id='word_1_9' title='bbox 142 1269 176 1310; x_wconf 92' lang='lat' dir='ltr'>P</span> <span class='ocrx_word' id='word_1_10' title='bbox 189 1284 250 1325; x_wconf 79' lang='lat' dir='ltr'>ag.</span> <span class='ocrx_word' id='word_1_11' title='bbox 274 1271 309 1320; x_wconf 89' lang='lat'>9,</span> <span class='ocrx_word' id='word_1_12' title='bbox 327 1269 398 1312; x_wconf 82' lang='lat' dir='ltr'>lin.</span> <span class='ocrx_word' id='word_1_13' title='bbox 420 1272 484 1320; x_wconf 80' lang='lat'>19,</span> <span class='ocrx_word' id='word_1_14' title='bbox 499 1284 584 1325; x_wconf 62' lang='lat' dir='ltr'>pro</span> <span class='ocrx_word' id='word_1_15' title='bbox 602 1275 624 1291; x_wconf 85' lang='lat'><em>“</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 637 1269 1036 1319; x_wconf 69' lang='lat' dir='ltr'>acclamabionbus‚&#39;&#39;</span> <span class='ocrx_word' id='word_1_17' title='bbox 1060 1269 1144 1324; x_wconf 74' lang='lat' dir='ltr'>legye</span> <span class='ocrx_word' id='word_1_18' title='bbox 1167 1275 1188 1291; x_wconf 88' lang='lat'><em>“</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 1202 1263 1616 1311; x_wconf 71' lang='lat' dir='ltr'>aeclamationibus.’⁷</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1756 0 1831 2975">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1756 0 1831 2975">
+     <span class='ocr_line' id='line_1_3' title="bbox 1756 0 1831 2975; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 1756 0 1831 2975; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
